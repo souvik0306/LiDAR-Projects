@@ -1,0 +1,4 @@
+numpy==1.26.2
+matplotlib==3.9.2
+noise==1.2.2
+open3d==0.17.0
